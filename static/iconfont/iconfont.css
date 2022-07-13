@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3473763 */
+  src: url('iconfont.eot?t=1657331582210'); /* IE9 */
+  src: url('iconfont.eot?t=1657331582210#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('iconfont.woff2?t=1657331582210') format('woff2'),
+       url('iconfont.woff?t=1657331582210') format('woff'),
+       url('iconfont.ttf?t=1657331582210') format('truetype'),
+       url('iconfont.svg?t=1657331582210#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zanting1:before {
+  content: "\e633";
+}
+
+.icon-xiangzuo:before {
+  content: "\e600";
+}
+
+.icon-guanbi:before {
+  content: "\e601";
+}
+
+.icon-shouye:before {
+  content: "\e751";
+}
+
+.icon-fangdajing:before {
+  content: "\e6e4";
+}
+
+.icon-icon:before {
+  content: "\e6a0";
+}
+
+.icon-yousanjiao:before {
+  content: "\e629";
+}
+
+.icon-bofang_o:before {
+  content: "\eb5e";
+}
+
+.icon-fenxiang:before {
+  content: "\e605";
+}
+
+.icon-dianzan:before {
+  content: "\ec7f";
+}
+
+.icon-zanting:before {
+  content: "\e61c";
+}
+

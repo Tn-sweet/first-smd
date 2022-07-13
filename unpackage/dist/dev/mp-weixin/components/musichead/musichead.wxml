@@ -1,0 +1,1 @@
+<view class="music-head data-v-e0b6e5e0"><view wx:if="{{a}}" class="music-head-icon data-v-e0b6e5e0"><text class="iconfont icon-xiangzuo data-v-e0b6e5e0" bindtap="{{b}}"></text> | <text class="iconfont icon-shouye data-v-e0b6e5e0" bindtap="{{c}}"></text></view> {{d}}</view>
